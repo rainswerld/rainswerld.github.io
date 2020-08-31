@@ -478,6 +478,12 @@ mark,
   height: auto;
 }
 
+.languages {
+    max-width: 20%;
+    height: auto;
+    margin: 10px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
